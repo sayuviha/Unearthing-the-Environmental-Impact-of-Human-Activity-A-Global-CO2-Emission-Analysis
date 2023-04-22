@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Co2 emission
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+tabeau dashboard pubic link:https://public.tableau.com/views/Co2emissiondashboard_16821088462310/Dash1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+tableau story public:https://public.tableau.com/views/Co2emissiondashboard_16821088462310/Co2EmissionStory?:language=en-US&:display_count=n&:origin=viz_share_link
